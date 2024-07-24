@@ -1,0 +1,8 @@
+go 1.22
+
+use (
+	./primary
+	./shared
+	./extensions/v1
+	./extensions/v2
+)
